@@ -1,0 +1,139 @@
+"rt","stimulus","response","trial_type","trial_index","time_elapsed","internal_node_id","view_history"
+"825","<img src=""images/title-page.gif"" alt=""Press any buttons to continue"">","arrowright","html-keyboard-response","0","826","0.0-0.0",""
+"904","","","instructions","1","1731","0.0-1.0","[{""page_index"":0,""viewing_time"":346},{""page_index"":1,""viewing_time"":249},{""page_index"":2,""viewing_time"":310}]"
+"653","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 0<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: 1<h3>
+                        </div>
+                        <div class=""arrowsContainer"" ><div class=""normalFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowleft","html-keyboard-response","2","2385","0.0-2.0-0.0-0.0",""
+"443","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 1<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: 2<h3>
+                        </div>
+                        <div class=""arrowsContainer"" ><div class=""normalFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowleft","html-keyboard-response","3","2829","0.0-2.0-0.0-0.1",""
+"569","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 2<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: 3<h3>
+                        </div>
+                        <div class=""arrowsContainer"" ><div class=""normalFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowdown","html-keyboard-response","4","3398","0.0-2.0-1.0-0.0",""
+"899","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 3<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: 4<h3>
+                        </div>
+                        <div class=""arrowsContainer"" ><div class=""normalFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowdown","html-keyboard-response","5","4298","0.0-2.0-1.0-0.1",""
+"563","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 4<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: 5<h3>
+                        </div>
+                        <div class=""arrowsContainer"" ><div class=""normalFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowleft","html-keyboard-response","6","4861","0.0-2.0-2.0-0.0",""
+"667","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 5<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: 6<h3>
+                        </div>
+                        <div class=""arrowsContainer"" ><div class=""normalFlanker""><img src=""images/arrow-up.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-up.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""normalFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowright","html-keyboard-response","7","5529","0.0-2.0-2.0-0.1",""
+"584","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 6<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: 7<h3>
+                        </div>
+                        <div class=""arrowsContainer"" style=""width:580px""><div class=""complexFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowup","html-keyboard-response","8","6113","0.0-2.0-3.0-0.0",""
+"845","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 7<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: 8<h3>
+                        </div>
+                        <div class=""arrowsContainer"" style=""width:580px""><div class=""complexFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowdown","html-keyboard-response","9","6959","0.0-2.0-3.0-0.1",""
+"519","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 8<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: 9<h3>
+                        </div>
+                        <div class=""arrowsContainer"" style=""width:580px""><div class=""complexFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowup","html-keyboard-response","10","7479","0.0-2.0-3.0-0.2",""
+"571","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 9<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: 10<h3>
+                        </div>
+                        <div class=""arrowsContainer"" style=""width:580px""><div class=""complexFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowleft","html-keyboard-response","11","8051","0.0-2.0-3.0-0.3",""
+"null","<img src=""images/bonus-round-page.gif"" alt=""bonus round"">","null","html-keyboard-response","12","10056","0.0-2.0-4.0",""
+"1029","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 9<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: BONUS<h3>
+                        </div>
+                        <div class=""arrowsContainer"" style=""width:580px""><div class=""complexFlanker""><img src=""images/arrow-up-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right-red.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-red.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right-blue.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-green.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowdown","html-keyboard-response","13","11085","0.0-2.0-5.0-0.0",""
+"904","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 10<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: BONUS<h3>
+                        </div>
+                        <div class=""arrowsContainer"" style=""width:580px""><div class=""complexFlanker""><img src=""images/arrow-left-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-blue.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left-red.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left-red.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowdown","html-keyboard-response","14","11990","0.0-2.0-5.0-0.1",""
+"849","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 11<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: BONUS<h3>
+                        </div>
+                        <div class=""arrowsContainer"" style=""width:580px""><div class=""complexFlanker""><img src=""images/arrow-down-red.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right-blue.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left-blue.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-red.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left-red.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowleft","html-keyboard-response","15","12840","0.0-2.0-5.0-0.2",""
+"1183","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 12<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: BONUS<h3>
+                        </div>
+                        <div class=""arrowsContainer"" style=""width:580px""><div class=""complexFlanker""><img src=""images/arrow-left-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-red.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-blue.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up-blue.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up-purple.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowdown","html-keyboard-response","16","14024","0.0-2.0-5.0-0.3",""
+"667","<div class=""container"">
+                        <div class=""score"">
+                            <h3>Score: 13<h3>
+                        </div>
+                        <div class=""level"">
+                            <h3>Level: BONUS<h3>
+                        </div>
+                        <div class=""arrowsContainer"" style=""width:580px""><div class=""complexFlanker""><img src=""images/arrow-down-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-blue.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-down-blue.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-left-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right-green.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up-purple.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-up-red.png"" alt=""chosenArrow""></div><div class=""complexFlanker""><img src=""images/arrow-right-red.png"" alt=""chosenArrow""></div></div>
+                </div>","arrowright","html-keyboard-response","17","14692","0.0-2.0-5.0-0.4",""
