@@ -121,7 +121,7 @@
         var url = '/save_data.php';
         var data_to_send = {filename: name, filedata: data};
         fetch(url, {
-            method: 'POST',
+            method: 'GET',
             body: JSON.stringify(data_to_send),
             headers: new Headers({
                 'Content-Type': 'application/json'
